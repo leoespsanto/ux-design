@@ -1,4 +1,4 @@
-# awesome-ux
+# ux-resources
 
 ## Resources
 > Links úteis relacionados à UI e UX
