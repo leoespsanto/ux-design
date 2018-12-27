@@ -44,7 +44,7 @@
 - [Humaaans](https://www.humaaans.com/) - Ilustrações
 - [Unsplash](https://unsplash.com/) - Imagens
 - [Hero Patterns](http://www.heropatterns.com/) - Hero Patterns
-
+- [Noun Project](https://thenounproject.com/) - Icons for Everything
 ### Utilidades
 - [Dropmark](http://dropmark.com) - Organizador de links e imagens em coleções
 - [Dummi](http://dummi.io/) - Gerador de dados fake
