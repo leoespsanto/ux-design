@@ -32,3 +32,4 @@
 - [Dropmark](http://dropmark.com) - Organizador de links e imagens em coleções
 - [Dummi](http://dummi.io/) - Gerador de dados fake
 - [UI Sound Inspiration](https://uisounds.prototypr.io/sounds/)
+- [Pages.xyz](https://www.pages.xyz/)
