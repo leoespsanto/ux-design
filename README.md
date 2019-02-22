@@ -11,6 +11,9 @@
 - [Material Palette Generator](https://material.io/design/color/the-color-system.html#tools-for-picking-colors) - Paleta de cores do Material Design 2018
 - [Material Color Tool 2014](https://material.io/tools/color) - Paleta de cores do Material Design 2014
 
+### Writing
+- [Guia de Redação Conta Azul](https://guiaderedacao.contaazul.design/)
+
 ### Others
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
 - [Whimsical](https://whimsical.co) - Flowchart, Wireframes e Sticky Notes
