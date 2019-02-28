@@ -36,3 +36,7 @@
 - [Dummi](http://dummi.io/) - Gerador de dados fake
 - [UI Sound Inspiration](https://uisounds.prototypr.io/sounds/)
 - [Pages.xyz](https://www.pages.xyz/)
+
+
+### Typography
+- [Please Stop “Fixing” Font Smoothing](http://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/)
