@@ -32,6 +32,7 @@
 - [Dummi](http://dummi.io/)
 - [UI Sound Inspiration](https://uisounds.prototypr.io/sounds/)
 - [Pages.xyz](https://www.pages.xyz/)
+- [Evernote Design](https://www.evernote.design/)
 
 ### Artigos
 - [Please Stop “Fixing” Font Smoothing](http://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/)
