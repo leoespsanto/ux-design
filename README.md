@@ -33,6 +33,7 @@
 - [UI Sound Inspiration](https://uisounds.prototypr.io/sounds/)
 - [Pages.xyz](https://www.pages.xyz/)
 - [Evernote Design](https://www.evernote.design/)
+- [Checklist Design](https://www.checklist.design/)
 
 ### Artigos
 - [Please Stop “Fixing” Font Smoothing](http://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/)
