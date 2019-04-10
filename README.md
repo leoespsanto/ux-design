@@ -38,6 +38,7 @@
 
 ### Artigos
 - [Please Stop “Fixing” Font Smoothing](http://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/)
+- [The Vignelli Canon (PT-BR)](https://www.creativedoc.co/vignelli)
 
 ### Material Design
 - [Guidelines](https://material.io/archive/guidelines/) (old)
