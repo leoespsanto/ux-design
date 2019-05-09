@@ -4,7 +4,6 @@
 ## Referências
 - [Design Sprint Kit](https://designsprintkit.withgoogle.com/)
 - [Sprint Stories](https://sprintstories.com/)
-- [Livro PDF](https://drive.google.com/open?id=1B9oAwwoHyfHPsjtIqwEgCDZStuNE5YTJ)
 - [Material para Testes de Usabilidade](https://drive.google.com/open?id=14OUOf8bZwFibBKd_GZYu3mf_IfnDYTNG)
 
 ## Como aplicar?
