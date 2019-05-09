@@ -8,7 +8,3 @@
 - **Reserve cinco dias inteiros no calendário.** Marque com sua equipe de sprint o período das nove da manhã até as cinco da tarde.
 - **Disponha de uma sala com dois quadros brancos.** Reserve uma sala que a equipe do sprint possa usar durante toda a semana. Se não tiver dois quadros brancos, compre ou improvise (cartolinas brancas!).
 - **Reserve uma segunda sala.** Você irá precisar de uma segunda sala para as entrevistas de sexta.
-
-# Convites
-- [Modelo de convite interno](https://codepen.io/anon/pen/Epvezp)
-- [Modelo de convite externo](https://codepen.io/anon/pen/OwjoeM)
