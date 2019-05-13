@@ -27,7 +27,6 @@
 - [Cool Backgrounds](https://coolbackgrounds.io)
 - [Unsplash](https://unsplash.com/)
 - [Hero Patterns](http://www.heropatterns.com/)
-- [Noun Project](https://thenounproject.com/)
 - [Dropmark](http://dropmark.com)
 - [Dummi](http://dummi.io/)
 - [UI Sound Inspiration](https://uisounds.prototypr.io/sounds/)
@@ -35,6 +34,10 @@
 - [Evernote Design](https://www.evernote.design/)
 - [Checklist Design](https://www.checklist.design/)
 - [Really Good UX](https://www.reallygoodux.io/)
+
+### Ícones
+- [Nucleo](https://nucleoapp.com/)
+- [Noun Project](https://thenounproject.com/)
 
 ### Artigos
 - [Please Stop “Fixing” Font Smoothing](http://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/)
