@@ -34,6 +34,7 @@
 - [Evernote Design](https://www.evernote.design/)
 - [Checklist Design](https://www.checklist.design/)
 - [Really Good UX](https://www.reallygoodux.io/)
+- [Design System Pyramid](http://designprinciplespyramid.com/)
 
 ### Ícones
 - [Nucleo](https://nucleoapp.com/)
