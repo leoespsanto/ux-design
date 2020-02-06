@@ -35,6 +35,7 @@
 - [Checklist Design](https://www.checklist.design/)
 - [Really Good UX](https://www.reallygoodux.io/)
 - [Design System Pyramid](http://designprinciplespyramid.com/)
+- [Versions](https://versions.sympli.io/)
 
 ### Ícones
 - [Nucleo](https://nucleoapp.com/)
