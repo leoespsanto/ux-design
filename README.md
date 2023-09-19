@@ -5,6 +5,7 @@
 - [unDraw](https://undraw.co/illustrations)
 - [Humaaans](https://www.humaaans.com/)
 - [Absurd Design](https://absurd.design/)
+- [ManyPixels](https://www.manypixels.co/)
 
 ### Prototipação
 - [Whimsical](https://whimsical.co)
